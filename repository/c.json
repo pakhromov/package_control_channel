@@ -1479,6 +1479,16 @@
 			]
 		},
 		{
+			"name": "ClickableLinks",
+			"details": "https://github.com/pakhromov/ClickableLinks",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Clickable WSDL",
 			"details": "https://github.com/lwilli/ClickableWSDL",
 			"releases": [
